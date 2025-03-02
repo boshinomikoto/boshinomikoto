@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 First-year student at Kyiv Polytechnic Institute<br>💻 Learning C/C++ and exploring system programming<br>🚀 Passionate about modern technologies and software engineering<br>🔍 Open to constructive criticism—always eager to improve<br>⚙️ Enthusiast of low-level programming and system optimization<br>🐧 Daily driver: Arch Linux (because btw, I use Arch)<br>
+🎓 First-year student at Kyiv Polytechnic Institute<br>💻 Learning C/C++ and exploring system programming<br>🚀 Passionate about modern technologies and software engineering<br>🔍 Open to constructive criticism—always eager to improve<br>⚙️ Enthusiast of low-level programming and system optimization<br>🐧 Daily driver: Arch Linux<br>
 
 
 # 💻 Tech Stack:
