@@ -1,9 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&width=435&lines=C%2B%2B+Developer;Game+Dev+Enthusiast;Learning+by+Building" alt="Typing SVG"/>
+</p>
+
 <div align="center">
   <h2>vadim · C++ / Game Dev</h2>
   <p>Learning by building — one project at a time</p>
 </div>
-
----
 
 ## 🛠 Tech Stack
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -19,22 +21,16 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
----
 
 ## 📊 Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boshinomikoto&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshinomikoto&theme=dark&hide_border=true&count_private=true&layout=compact" height="150"/>
+  <img src="https://komarev.com/ghpvc/?username=boshinomikoto&color=blue&style=for-the-badge"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=boshinomikoto&theme=dark&hide_border=true"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=boshinomikoto&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
+
+
